@@ -6,9 +6,9 @@ Requires Java version 8.
 Instructions:
 -------------
 
-Select HashType from top right drop down list (MD5 by default)
+Select HashType from top right drop down list (MD5 by default).
 Select a File, drag it to top TextField and drop it, wait until Hash Value was displayed. 
 You can copy calculated hash value to the clipboard.
-You can compare calculated hash value with existing hash string copying your hash string in the bottom textfield, after that the app will compare both strings and draw an icon (red cross or green checkmark) depending the comparison result.
+You can compare calculated hash value with existing hash string copying your hash string to the bottom textfield, after that the application will compare both strings and draw an icon (red cross or green checkmark) depending on the comparison result.
 
 Feel free to download and customize to your needs.
